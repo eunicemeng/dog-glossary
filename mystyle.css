@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    height: 40px;
+    width: 170px;
+}
